@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1708363928">
+  <File Type="ROUTE-PWR" Name="ana_kod_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="ana_kod.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="ana_kod_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="ana_kod_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="ana_kod_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="ana_kod.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="ana_kod_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="ana_kod_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="ana_kod_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="ana_kod_opt.dcp"/>
+  <File Type="OPT-DRC" Name="ana_kod_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="ana_kod.hwdef"/>
+  <File Type="PWROPT-DCP" Name="ana_kod_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="ana_kod_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="ana_kod_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="ana_kod_placed.dcp"/>
+  <File Type="PLACE-IO" Name="ana_kod_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="ana_kod_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="ana_kod_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="ana_kod_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="ana_kod_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="ana_kod_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="ana_kod_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="ana_kod.bin"/>
+  <File Type="PLACE-TIMING" Name="ana_kod_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="ana_kod_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="ana_kod_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="ana_kod_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="ana_kod.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="ana_kod_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="ana_kod_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="ana_kod_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="ana_kod.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="ana_kod_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="ana_kod_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="ana_kod_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="ana_kod_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="ana_kod_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="ana_kod_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="ana_kod_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="ana_kod_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="ana_kod_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="ana_kod_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="ana_kod_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="ana_kod_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="ana_kod_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="ana_kod_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="ana_kod_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="ana_kod_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="ana_kod_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="ana_kod_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="ana_kod_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="ana_kod_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="ana_kod_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="ana_kod_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="ana_kod_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="ana_kod_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="ana_kod_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="ana_kod_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="ana_kod_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="ana_kod.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="ana_kod_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="ana_kod_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="ana_kod.nky"/>
+  <File Type="BITSTR-BMM" Name="ana_kod_bd.bmm"/>
+  <File Type="PDI-FILE" Name="ana_kod.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="ana_kod_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="ana_kod_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="ana_kod.rcfi"/>
+  <File Type="CFI_FILE" Name="ana_kod.cfi"/>
+  <File Type="RNPI_FILE" Name="ana_kod.rnpi"/>
+  <File Type="NPI_FILE" Name="ana_kod.npi"/>
+  <File Type="RBD_FILE" Name="ana_kod.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="ana_kod.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="ana_kod.sysdef"/>
+  <File Type="BG-BGN" Name="ana_kod.bgn"/>
+  <File Type="BG-DRC" Name="ana_kod.drc"/>
+  <File Type="RDI-RDI" Name="ana_kod.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="ana_kod_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="ana_kod_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ana_kod.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="ana_kod"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/pins_.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/pins_.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
